@@ -1,0 +1,16 @@
+{
+  "name": "technial-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "solution": "node src/index.js",
+    "test": "jest --config ./jest.config.json"
+  },
+  "keywords": [],
+  "author": "kunal01996",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
